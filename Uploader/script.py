@@ -49,14 +49,6 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
 
 <b>🌀 Channel</b> : <a href="https://t.me/Doctor_MIB_iran">Medicalism</a>
 
-<b>🌀 LibigenBot</b> : <a href="https://t.me/LibigenBOT">join</a>
-
-<b>🌀 downloaderBot</b> : <a href="https://t.me/saji_LinkdownloaderBOT">join</a>
-
-<b>🌀 MedicalismBot</b> : <a href="https://t.me/medicalismBot">join</a>
-
-<b>🌀 Medicalism Pro Bot</b> : <a href="https://t.me/medicalismBot">join</a>
-
 <b>🌺 website </b> : <a href="https://mibmedicalism.com</a>
 
 <b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
